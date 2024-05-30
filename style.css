@@ -56,3 +56,6 @@ body {
 8. Tương tự bài 7 nhưng dùng thẻ `a`
 
 9. Áp dụng pseudo `:hover` để khi rê chuột vào kết quả bài 8 thì đổi màu nền và màu chữ */
+body {
+  background-color: grey;
+}
